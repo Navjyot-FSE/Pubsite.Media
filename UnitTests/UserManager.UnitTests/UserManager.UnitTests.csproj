@@ -17,4 +17,10 @@
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="AuthManager.UnitTests\JWTAuthManager.UnitTests\" />
+    <Folder Include="AuthManager.UnitTests\LinkedInSSOAuthManager.UnitTests\" />
+    <Folder Include="UserManager.API.UnitTests\" />
+  </ItemGroup>
+
 </Project>

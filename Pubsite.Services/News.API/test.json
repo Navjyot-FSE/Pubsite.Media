@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "d09624b0-b212-44fd-81f2-1bdc8046951f",
+    "UserName": "navjyot@gmail.com",
+    "NormalizedUserName": "NAVJYOT@GMAIL.COM",
+    "Email": "navjyot@gmail.com",
+    "NormalizedEmail": "NAVJYOT@GMAIL.COM",
+    "EmailConfirmed": "1",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJPqy6nf+DDi5sn9rukfFhAue3cT8Kr/zs86szBnopdmLkeb5zEmyIx1o5J17u2QKQ==",
+    "SecurityStamp": "KUWNWJKGH7FL4SUVYTSDKFFQJYDXJA4E",
+    "ConcurrencyStamp": "fe33be5d-6478-40df-92dd-c86368c3d8a3",
+    "PhoneNumber": null,
+    "PhoneNumberConfirmed": "0",
+    "TwoFactorEnabled": "0",
+    "LockoutEnd": null,
+    "LockoutEnabled": "1",
+    "AccessFailedCount": 0
+  }
+]

@@ -1,0 +1,6 @@
+--------------------------
+Entity Framework
+--------------------------
+> dotnet add package Microsoft.EntityFrameworkCore
+> dotnet add package Microsoft.EntityFrameworkCore.tools
+> dotnet add package Microsoft.EntityFrameworkCore.SqlServer
